@@ -2,7 +2,6 @@ NPM (javascript package manager for node.js or modules)
 
 download and install node.js
 
-
 www.reactjs.org
 
 npx create-react-app my-app
