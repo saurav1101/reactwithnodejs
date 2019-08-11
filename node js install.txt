@@ -13,10 +13,11 @@ npm start
 type 'npm i axios' (restapi client)
 
 
-
 search 'react component libraries in google github' eg:- material ui
 
+
 - "Search.js" file created 
+
 
 Go to 'https://material-ui.com/getting-started/installation/'
 
@@ -36,7 +37,3 @@ Counter value is NaN
 
 Press F12(inspect element)
 Go to Application > Session Storage > https://localhost:3000/counter/ (Key = counter, Value = 3)
-
-
-
-
