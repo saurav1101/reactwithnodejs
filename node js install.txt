@@ -32,7 +32,7 @@ type 'npm install react-router-dom' (do not include single ' quotation)
 
 
 
-Counter value 	is NaN
+Counter value is NaN
 
 Press F12(inspect element)
 Go to Application > Session Storage > https://localhost:3000/counter/ (Key = counter, Value = 3)
