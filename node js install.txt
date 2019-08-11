@@ -1,3 +1,5 @@
+NPM (javascript package manager for node.js or modules)
+
 download and install node.js
 
 
@@ -13,3 +15,28 @@ type 'npm i axios' (restapi client)
 
 
 search 'react component libraries in google github' eg:- material ui
+
+- "Search.js" file created 
+
+Go to 'https://material-ui.com/getting-started/installation/'
+
+type 'npm install @material-ui/core' (do not include single ' quotation)
+type 'npm install @material-ui/icons' (do not include single ' quotation)
+
+
+
+google 'react router'
+Go to 'https://reacttraining.com/react-router/web/guides/quick-start'
+
+type 'npm install react-router-dom' (do not include single ' quotation)
+
+
+
+Counter value 	is NaN
+
+Press F12(inspect element)
+Go to Application > Session Storage > https://localhost:3000/counter/ (Key = counter, Value = 3)
+
+
+
+
