@@ -1,0 +1,15 @@
+download and install node.js
+
+
+www.reactjs.org
+
+npx create-react-app my-app
+cd my-app
+npm start
+
+
+type 'npm i axios' (restapi client)
+
+
+
+search 'react component libraries in google github' eg:- material ui
